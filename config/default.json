@@ -1,0 +1,9 @@
+{
+    "mongoURI":"mongodb+srv://yousuf:yousuf456@cluster0.swxvt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"yousuf",
+    "githubClientId":"fa8b8e431b549d55e6ee",
+    "githubSecret":"7f178bb24925c436ead6cbecb34e700bfbab0aab"
+    
+
+}
+
